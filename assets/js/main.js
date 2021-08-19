@@ -2,12 +2,12 @@
 const CONFIGDATA = {
     titleHeader: 'Cậu ơi đang buồn chuyện gì hả, thất tình ? Bạn bè ? Hay chuyện gia đìng ?',
     descriptionHeader: 'Thật sự tớ không trong hoàn cảnh của cậu nên không hiểu cảm giác của cậu được </br> nhưng cậu chỉ cần nghĩ là những chuyện xảy ra đều có nguyên nhân của nó đó </br> Cậu cứ buồn cứ khóc ...nó chỉ là cậu đang sống đúng với cảm xúc của cậu thôi^^',
-    descriptionHeader: 'Tớ hy vọng là cậu sẽ đọc được những lời này của tớ ngoài gia đình những người thân quen còn có cả tớ nữa </br>Tớ luôn ở đây lắng nghe cảm nhận cậu nè'
+    descriptionHeader: 'Tớ hy vọng là cậu sẽ đọc được những lời này của tớ ngoài gia đình những người thân quen còn có cả tớ nữa </br>Tớ luôn ở đây lắng nghe cảm nhận cậu nè',
     buttonYes: 'Cảm ơn cậu tớ đã khá hơn rồi !',
     buttonNo: 'Hmm',
     titleModar: 'Đấy phải thế chứ, mạnh mẽ lên, không người này thì người kia thôi',
     descriptionModar: 'ba mẹ sinh ra cậu á đã là một điều rất đẹp đẽ trên thế giới này rồi, cậu phải thật vui vẻ mà sống, chứ buồn hoài đâu đươc đâu đúng hong:)))).</br> Ai cũng xứng đáng có được hạnh phúc cả và cậu cũng thế ',
-    descriptionModar: 'Dù quen hay không quen nhưng tớ hi vọng chút xíu sự tích cực nhỏ nhoi này có thể giúp cậu tí gì đó </br>Nào buồn thì cứ mở ra coi nhaaaa. Luv u! '
+    descriptionModar: 'Dù quen hay không quen nhưng tớ hi vọng chút xíu sự tích cực nhỏ nhoi này có thể giúp cậu tí gì đó </br>Nào buồn thì cứ mở ra coi nhaaaa. Luv u! ',
 };
 
 
