@@ -45,7 +45,7 @@ function start(data) {
 
     window.onload = () => {
         document.querySelector('.music').play()
-        document.querySelector('.music').volume = 1
+        document.querySelector('.music').volume = 2
     };
     window.onkeypress = (e) => {
         if (e.charCode === 32) {
